@@ -1,4 +1,4 @@
-## colors
+## Colors
 Colors are used to specify text colors mainly. We can also use these color values to set background colors to specific elements.
 
 We can specify colors with the following methods:
@@ -32,8 +32,9 @@ We can use CSS in our HTML documents with various methods such as:
     - _top: It opens the linked document in the full body of the window.
 
 ## images
-- We include images in our web page using ```<img>``` tag.
-- ```<img>``` has various attributes:
+We include images in our web page using ```<img>``` tag.
+
+```<img>``` has various attributes:
     - src: We define source of the image either in absolute url or relative url.
     - width: We define width of the image.
     - height: We define height of the image.
